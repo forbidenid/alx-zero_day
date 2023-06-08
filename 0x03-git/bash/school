@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-school file
-=======
 #!/bin/bash
 echo "The school is open!"
-updated
->>>>>>> update_script
+update
+ update_script
